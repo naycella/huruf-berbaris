@@ -1,2 +1,0 @@
-# huruf-berbaris
-projek intern 
